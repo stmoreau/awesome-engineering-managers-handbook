@@ -94,6 +94,7 @@
 
 ## Interviewing    
 [How to Interview Engineers](http://blog.triplebyte.com/how-to-interview-engineers)    
+[AI Interview Coach](https://em-tools.io/interview-prep) - Voice-based AI behavioral interview practice for engineering managers and software engineers. 130+ role-specific questions and STAR-format scoring.    
 
 **[⬆ back to top](#table-of-contents)**
 
