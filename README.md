@@ -83,6 +83,7 @@
 [Software Lead Weekly](http://softwareleadweekly.com/)       
 [Tech Leadership Weekly](http://www.techleadershipweekly.com/)     
 [Engineering Impact](https://www.gitprime.com/engineering-impact/)    
+[Blog for Engineering Managers](https://blog4ems.com) - Practical guidance, templates, and resources for engineering managers     
 
 ### Software Engineering
 [The Effective Engineer](http://www.theeffectiveengineer.com/)    
